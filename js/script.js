@@ -20,7 +20,7 @@ let totalCopy = Number(copyCount.innerText);
 const services = [
     {
         id: 1,
-        logo: '../assets/emergency.png',
+        logo: '../assets/images/emergency.png',
         title: 'National Emergency Number',
         subtitle: 'National Emergency',
         number: '999',
@@ -28,7 +28,7 @@ const services = [
     },
     {
         id: 2,
-        logo: '../assets/police.png',
+        logo: '../assets/images/police.png',
         title: 'Police Helpline Number',
         subtitle: 'Police',
         number: '999',
@@ -36,7 +36,7 @@ const services = [
     },
     {
         id: 3,
-        logo: '../assets/fire-service.png',
+        logo: '../assets/images/fire-service.png',
         title: 'Fire Service Number',
         subtitle: 'Fire Service',
         number: '999',
@@ -44,7 +44,7 @@ const services = [
     },
     {
         id: 4,
-        logo: '../assets/ambulance.png',
+        logo: '../assets/images/ambulance.png',
         title: 'Ambulance Service',
         subtitle: 'Ambulance',
         number: '1994-999999',
@@ -52,7 +52,7 @@ const services = [
     },
     {
         id: 5,
-        logo: '../assets/emergency.png',
+        logo: '../assets/images/emergency.png',
         title: 'Women & Child Helpline',
         subtitle: 'Women & Child Helpline',
         number: '109',
@@ -60,7 +60,7 @@ const services = [
     },
     {
         id: 6,
-        logo: '../assets/emergency.png',
+        logo: '../assets/images/emergency.png',
         title: 'Anti-Corruption Helpline',
         subtitle: 'Anti-Corruption',
         number: '106',
@@ -68,7 +68,7 @@ const services = [
     },
     {
         id: 7,
-        logo: '../assets/emergency.png',
+        logo: '../assets/images/emergency.png',
         title: 'Electricity Helpline',
         subtitle: 'Electricity Outage',
         number: '16216',
@@ -76,7 +76,7 @@ const services = [
     },
     {
         id: 8,
-        logo: '../assets/brac.png',
+        logo: '../assets/images/brac.png',
         title: 'Brac Helpline',
         subtitle: 'Brac',
         number: '16445',
@@ -84,7 +84,7 @@ const services = [
     },
     {
         id: 9,
-        logo: '../assets/Bangladesh-Railway.png',
+        logo: '../assets/images/Bangladesh-Railway.png',
         title: 'Bangladesh Railway Helpline',
         subtitle: 'Bangladesh Railway ',
         number: '163',
